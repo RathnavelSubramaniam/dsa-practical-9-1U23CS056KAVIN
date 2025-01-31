@@ -47,7 +47,7 @@ sc.close();
 public void deleteBegin()
 {
 if (head == null) {
- System.out.println("List is Empty");
+  System.out.println("List is Empty");
            
         }
        else{
